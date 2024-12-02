@@ -34,7 +34,7 @@ function Header() {
             {/* Logo */}
             <div className="flex items-center justify-center">
                 <a href="Tesla" src="#"><img src={logo} alt="Logo" className="h-28 w-36" /></a>
-            </div>
+            </div>``
 
             {/* Menu */}
             <div>
