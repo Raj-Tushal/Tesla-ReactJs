@@ -3,7 +3,7 @@ import modelY from "../assets/model-y-right.jpg";
 import Model3 from "../assets/Model3.jpg";
 import modelX from "../assets/modely.jpg";
 import modelS from "../assets/ModelS.jpg";
-import cyberTruck from "../assets/cybertruck.jpg";
+import cyberTtruck from "../assets/cybertruck.jpg";
 import solarPanel from "../assets/solarPanel.jpg";
 import solarRoof from "../assets/solarRoof.jpg";
 import powerWall from "../assets/powerWall.jpg";
@@ -37,7 +37,7 @@ function Home() {
       headline: "Order Online for Touchless Delivery",
     },
     {
-      image: cyberTruck,
+      image: cybertruck,
       title: "Cybertruck",
       rightBtnText: "Demo Drive",
     },
