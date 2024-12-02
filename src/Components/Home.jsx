@@ -3,7 +3,7 @@ import modelY from "../assets/model-y-right.jpg";
 import Model3 from "../assets/Model3.jpg";
 import modelX from "../assets/modely.jpg";
 import modelS from "../assets/ModelS.jpg";
-import cybertruck from "../assets/cybertruck.jpg";
+import cybertruck from "../assets/cyberTruck.jpg";
 import solarPanel from "../assets/solarPanel.jpg";
 import solarRoof from "../assets/solarRoof.jpg";
 import powerWall from "../assets/powerWall.jpg";
